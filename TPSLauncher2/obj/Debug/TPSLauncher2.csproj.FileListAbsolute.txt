@@ -1,0 +1,23 @@
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\bin\Debug\TPSLauncher2.exe.config
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.csprojResolveAssemblyReference.cache
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.Properties.Resources.resources
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.csproj.GenerateResource.Cache
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\bin\Debug\TPSLauncher2.exe
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\bin\Debug\TPSLauncher2.pdb
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.exe
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.pdb
+c:\users\techx\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.Main.resources
+C:\Users\TechX\documents\visual studio 2015\Projects\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.LoggedIn.resources
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.csprojAssemblyReference.cache
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.Main.resources
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.LoggedIn.resources
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.csproj.GenerateResource.cache
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.exe
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.pdb
+G:\VS\TPSLauncher2\TPSLauncher2\bin\Debug\TPSLauncher2.exe.config
+G:\VS\TPSLauncher2\TPSLauncher2\bin\Debug\TPSLauncher2.exe
+G:\VS\TPSLauncher2\TPSLauncher2\bin\Debug\TPSLauncher2.pdb
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.Properties.Resources.resources
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.csproj.CoreCompileInputs.cache
+G:\VS\TPSLauncher2\TPSLauncher2\bin\Debug\InjectionLibrary.dll
+G:\VS\TPSLauncher2\TPSLauncher2\obj\Debug\TPSLauncher2.csproj.CopyComplete
